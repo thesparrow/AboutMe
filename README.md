@@ -13,7 +13,7 @@ Goal: Create intuitive design for site usability.
 
 Services I Offer 
 Goal: Representation of my objectives and small splash about what I can provide 
-![myimage-alt-tag](http://devanna.x10host.com/assets/Services.png)
+
 
 
 Contact Me </br>
