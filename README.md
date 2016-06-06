@@ -8,6 +8,19 @@ I am creating my portfolio and showcasing all my work, and creating direction in
 <li> Create a form of contact </li>
 <li> Create links to contact over social media with immediate redirection</li> 
 
+#MockUps 
+Goal: Create intuitive design for site usability.
+
+Services I Offer 
+Goal: Representation of my objectives and small splash about what I can provide 
+![myimage-alt-tag](http://devanna.x10host.com/assets/Services.png)
+
+
+Contact Me 
+Goal: Easy handle for questions, allowing with social media outlet. 
+http://devanna.x10host.com/assets/Services.png
+
+
 #Scope 
 <i>What's the scope?</i>
   <li> Understand how to utilize css </li>
