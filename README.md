@@ -16,9 +16,9 @@ Goal: Representation of my objectives and small splash about what I can provide
 ![myimage-alt-tag](http://devanna.x10host.com/assets/Services.png)
 
 
-Contact Me 
+Contact Me </br>
 Goal: Easy handle for questions, allowing with social media outlet. 
-http://devanna.x10host.com/assets/Services.png
+![myimage-alt-tag](http://devanna.x10host.com/assets/ContactMe.png)
 
 
 #Scope 
