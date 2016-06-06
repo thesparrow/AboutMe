@@ -11,9 +11,9 @@ I am creating my portfolio and showcasing all my work, and creating direction in
 #MockUps 
 Goal: Create intuitive design for site usability.
 
-Services I Offer 
+Services I Offer </br>
 Goal: Representation of my objectives and small splash about what I can provide 
-
+![myimage-alt-tag](http://devanna.x10host.com/assets/Services.png)
 
 
 Contact Me </br>
